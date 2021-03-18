@@ -16,6 +16,7 @@ h1,h2,h3,h4,h5,h6{color:#131925;}
    color: white;
    font-size:50px;
    font-weight:900;
+}
 
 .navbar-nav .nav-item .nav-link{
    padding: 1.1em 1em!important;
