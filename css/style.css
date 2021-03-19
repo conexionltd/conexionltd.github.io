@@ -134,7 +134,7 @@ nav{-webkit-transition: padding-top .3s,padding-bottom .3s;
     height: 20px;
     background: rgba(255, 255, 255, 0.2);
     animation: animate 25s linear infinite;
-    bottom: -150px;
+    bottom: -350px;
     
 }
 
@@ -526,7 +526,7 @@ p{
     font-size: 16px;
 }
 .container{
-  max-width: 760px;
+  max-width: 500px;
 }
 }
 
@@ -550,7 +550,7 @@ p{
 .banner-heading{
    font-size: 35px;
    line-height: 40px;
-   margin-bottom: 40px;
+   margin-bottom: 10px;
 }
 .btn-banner{
    padding:10px 20px;
@@ -602,7 +602,12 @@ p{
 .banner-text{
    padding:150px 0 150px 0;
    }
-  .container{
-    max-width: 900px;
-  } 
+.container{
+    max-width: 40%;
+} 
+}
+.image-txt-container {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
 }
